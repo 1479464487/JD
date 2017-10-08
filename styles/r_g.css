@@ -1,0 +1,216 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	width:1349px;
+	height: 110px;
+    background: url(../images/headbg.jpg) repeat-x left bottom; 
+}
+
+.root61 .w {
+    width: 1210px;
+}
+.root61 .w {
+    width: 1210px;
+}
+
+.w {
+    width: 1210px;
+    margin: 0 auto;
+}
+
+.clearfix {
+	display: block;
+    display: inline-table;
+}
+
+.header .logo {
+    width: 160px;
+    height: 50px;
+    float: left;
+    margin-top: 24px;
+    margin-left: 80px;
+}
+
+.header .logo {
+    background: url(../images/icon.png)no-repeat;
+}
+
+
+.header .logo-title {
+    float: left;
+    height: 34px;
+    line-height: 34px;
+    font-size: 24px;
+    color: #333;
+    padding-left: 30px;
+    margin-top: 34px;
+}
+
+.header .have-account {
+    font-size: 16px;
+    float: right;
+    margin-top: 55px;
+    color: #999;
+}
+
+.header .have-account a {
+    color: #333;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+.header .have-account {
+    font-size: 16px;
+    float: right;
+    margin-top: 55px;
+    color: #999;
+}
+
+.main {
+    margin: 50px auto 60px;
+    width: 830px;
+}
+
+.reg-form {
+    width: 400px;
+}
+
+.fl {
+    float: left;
+}
+
+.fl {
+    float: left;
+}
+
+body, button, input, txt {
+    font-family: "Microsoft YaHei","Hiragino Sans GB";
+}
+
+button, input, select, textarea {
+    outline: 0;
+}
+
+.hide {
+    display: none;
+}
+
+.form-item-account {
+    z-index: 13;
+}
+
+.form-item {
+    position: relative;
+    border: solid 1px #ddd;
+    width: 398px;
+    height: 52px;
+    z-index: 0;
+}
+
+.form-item label {
+    float: left;
+    width: 90px;
+    height: 52px;
+    line-height: 52px;
+    padding-left: 20px;
+}
+
+.form-item txt {
+    margin-top: 2px!important;
+}
+
+.form-item .field {
+    border: 0 none;
+    font-size: 14px;
+    width: 190px;
+    height: 19px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-top: 16px;
+}
+
+.form-item .i-status {
+    position: absolute;
+    display: none;
+    width: 16px;
+    height: 16px;
+    top: 20px;
+    right: 20px;
+}
+
+em, i, u {
+    font-style: normal;
+}
+
+.input-tip {
+    color: #c5c5c5;
+    height: 27px;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.form-item label {
+    float: left;
+    width: 90px;
+    height: 52px;
+    line-height: 52px;
+    padding-left: 20px;
+}
+
+#form-equalTopwd, #form-pwd, #login-pwd {
+    width: 210px;
+}
+
+.capslock-tip {
+    right: 2px;
+    top: -45px;
+}
+
+.tips {
+    position: absolute;
+    background: #fef4e5;
+    border: solid 1px #f6c090;
+    color: #bc5212;
+    display: none;
+    padding: 0 12px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    border-radius: 3px;
+    z-index: 11;
+}
+
+.tips .arrow {
+    width: 0;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+    border-color: #f6c090 transparent transparent;
+    border-style: solid dashed dashed;
+    border-width: 8px;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    bottom: -16px;
+}
+
+.tips .arrow-inner {
+    width: 0;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+    border-color: #fef4e5 transparent transparent;
+    border-style: solid dashed dashed;
+    border-width: 8px;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    bottom: -15px;
+}
+
